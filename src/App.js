@@ -36,8 +36,6 @@ function App() {
           <h3><AiTwotoneMail className='icon' /> : &nbsp;viresh@gmail.com,viresh@gmail.com</h3>
           <h3><IoMdCall className='icon' />: &nbsp;+971552116675, &nbsp; +971552116675</h3>
         </div>
-       
-    
       </div>
     </div>
   );
