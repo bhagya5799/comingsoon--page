@@ -23,7 +23,6 @@ function App() {
       <div className='container'>
         <h1>COMING SOON</h1>
         <span>We are working on our website. Will be launching soon.</span>
-
         <div className="form-container">
           <form ref={form} onSubmit={sendEmail} className="form">
             <input type="text" name="from_name" placeholder="Name" />
